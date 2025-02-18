@@ -1,0 +1,182 @@
+[
+  {
+      "id": "limestone",
+      "image": "images/limestone.jpg",
+      "title": "Limestone",
+      "characteristics": "Sedimentary rock, primarily composed of calcite. Typically light-colored, with textures ranging from smooth to rough.",
+      "applications": ["Patios", "Walkways", "Pool decks", "Wall cladding"],
+      "pros": ["Durable", "Versatile", "Natural beauty", "Slip-resistant"],
+      "cons": ["Can be porous", "May require sealing", "Susceptible to acid rain"],
+      "gallery": ["images/limestone.jpg", "images/limestone2.jpg"]
+  },
+  {
+      "id": "bluestone",
+      "image": "images/bluestone.jpg",
+      "title": "Bluestone",
+      "characteristics": "Bluish-gray sandstone. Durable with a natural, textured surface.",
+      "applications": ["Patios", "Walkways", "Stepping stones", "Retaining walls"],
+      "pros": ["Hard-wearing", "Non-slip", "Natural color variation", "Versatile"],
+      "cons": ["Can be expensive", "May fade", "Susceptible to staining"],
+      "gallery": ["images/bluestone.jpg", "images/bluestone3.jpg"]
+  },
+  {
+      "id": "oklahomaFlagstone",
+      "image": "images/oklahomaflagstone.jpg",
+      "title": "Oklahoma Flagstone",
+      "characteristics": "Flagstone quarried in Oklahoma. Warm earth tones, rugged texture.",
+      "applications": ["Patios", "Walkways", "Fireplace surrounds", "Garden paths"],
+      "pros": ["Locally sourced", "Affordable", "Natural color variation", "Durable"],
+      "cons": ["Uneven surfaces", "Can be brittle", "Susceptible to staining"],
+      "gallery": ["images/oklahomaflagstone.jpg", "images/oklahomaflagstone2.jpg"]
+  },
+  {
+      "id": "oklahomaBluestone",
+      "image": "images/oklahomabluestone.jpg",
+      "title": "Oklahoma Bluestone",
+      "characteristics": "Bluestone quarried in Oklahoma. Bluish-gray, durable, textured.",
+      "applications": ["Patios", "Walkways", "Stepping stones", "Retaining walls"],
+      "pros": ["Locally sourced", "Hard-wearing", "Non-slip", "Versatile"],
+      "cons": ["Can be expensive", "May fade", "Susceptible to staining"],
+      "gallery": ["images/oklahomabluestone.jpg", "images/oklahomabluestone3.jpg"]
+  },
+  {
+      "id": "quartzite",
+      "image": "images/quartzite.jpg",
+      "title": "Quartzite",
+      "characteristics": "Metamorphosed rock, many colors (silver, gold, tans, blues, grays, greens). Non-slip, resistant to wear, rain, chemicals.",
+      "applications": ["Patios", "Pool decks", "Driveways"],
+      "pros": ["Durable", "Versatile", "Variety of colors", "Non-slip"],
+      "cons": ["Can be expensive", "May require specialized installation"],
+      "gallery": ["images/quartzite.jpg", "images/quartzite4.jpg"]
+  },
+  {
+      "id": "sandstoneFlagstone",
+      "image": "images/sandstoneflag.jpg",
+      "title": "Sandstone Flagstone",
+      "characteristics": "Sedimentary rock, sand-sized grains. Variety of colors, textures.",
+      "applications": ["Patios", "Walkways", "Pool decks", "Wall cladding"],
+      "pros": ["Affordable", "Wide range of colors and textures", "Easy to work with", "Durable"],
+      "cons": ["Can be porous", "May require sealing", "Susceptible to staining"],
+      "gallery": ["images/sandstoneflag.jpg", "images/sandstoneflagstone2.jpg"]
+  },
+  {
+      "id": "slate",
+      "image": "images/slate.jpg",
+      "title": "Slate",
+      "characteristics": "Fine-grained metamorphic rock. Layered structure, dark gray.",
+      "applications": ["Patios", "Walkways", "Roofing", "Wall cladding"],
+      "pros": ["Durable", "Weather-resistant", "Natural beauty", "Slip-resistant"],
+      "cons": ["Can be expensive", "May require specialized installation"],
+      "gallery": ["images/slate.jpg", "images/slate3.jpg"]
+  },
+  {
+      "id": "travertine",
+      "image": "images/travertine.jpg",
+      "title": "Travertine",
+      "characteristics": "Porous limestone, pitted surface. Light beige or cream color.",
+      "applications": ["Patios", "Pool decks", "Interior flooring", "Wall cladding"],
+      "pros": ["Elegant appearance", "Durable", "Versatile", "Naturally cool surface"],
+      "cons": ["Can be porous", "May require sealing", "Susceptible to staining"],
+      "gallery": ["images/travertine.jpg", "images/travertine2.jpg"]
+  },
+  {
+      "id": "chiltonFlagstone",
+      "image": "images/chiltonflagstone.jpg",
+      "title": "Chilton Flagstone",
+      "characteristics": "Compacted limestone, found naturally in Oklahoma and Texas.",
+      "applications": ["Patios", "Walkways", "Pool decks"],
+      "pros": ["Durable", "Versatile", "Natural color variation"],
+      "cons": ["Can be porous", "May require sealing"],
+      "gallery": ["images/chiltonflagstone.jpg", "images/chiltonflagstone4.jpg"]
+  },
+  {
+      "id": "brownMultiColor",
+      "image": "images/brownmulticolor.jpg",
+      "title": "Brown Multi-color Flagstone",
+      "characteristics": "Hard rock, quarried in Oklahoma. Coffee and cocoa brown color, swirling patterns.",
+      "applications": ["Sidewalks", "Patios", "Wall veneer"],
+      "pros": ["Durable", "Unique color pattern", "Versatile"],
+      "cons": ["Can be expensive", "May require specialized installation"],
+      "gallery": ["images/brownmulticolor.jpg", "images/brownmulticolor3.jpg"]
+  },
+  {
+      "id": "bluestoneFlagstone",
+      "image": "images/bluestoneflagstone.jpg",
+      "title": "Bluestone Flagstone",
+      "characteristics": "Durable, blue-gray sandstone with a textured surface.",
+      "applications": ["Patios", "Walkways", "Stepping stones"],
+      "pros": ["Durable", "Non-slip", "Natural color variation"],
+      "cons": ["Can be expensive", "May fade", "Susceptible to staining"],
+      "gallery": ["images/bluestoneflagstone.jpg", "images/bluestoneflagstone2.jpg"]
+  },
+  {
+      "id": "mossFlagstone",
+      "image": "images/mossflagstone.jpg",
+      "title": "Moss Flagstone",
+      "characteristics": "Flagstone with a mossy, textured surface. Green and brown tones.",
+      "applications": ["Patios", "Walkways", "Stepping stones", "Retaining walls"],
+      "pros": ["Natural, rustic appearance", "Non-slip", "Adds character"],
+      "cons": ["Can be slippery when wet", "May require more maintenance"],
+      "gallery": ["images/mossflagstone.jpg", "images/mossflagstone3.jpg"]
+  },
+  {
+      "id": "buffFlagstone",
+      "image": "images/buffflagstone.jpg",
+      "title": "Buff Flagstone",
+      "characteristics": "Light beige flagstone with a smooth to slightly textured surface.",
+      "applications": ["Patios", "Walkways", "Pool decks"],
+      "pros": ["Neutral color", "Versatile", "Easy to maintain"],
+      "cons": ["Can show dirt", "May be slippery when wet"],
+      "gallery": ["images/buffflagstone.jpg", "images/buffflagstone2.jpg"]
+  },
+  {
+      "id": "coloradoFlagstone",
+      "image": "images/coloradoflagstone.jpg",
+      "title": "Colorado Flagstone",
+      "characteristics": "Flagstone quarried in Colorado. Variety of colors and textures.",
+      "applications": ["Patios", "Walkways", "Retaining walls"],
+      "pros": ["Durable", "Versatile", "Natural color variation"],
+      "cons": ["Can be expensive", "May require specialized installation"],
+      "gallery": ["images/coloradoflagstone.jpg", "images/coloradoflagstone4.jpg"]
+  },
+  {
+      "id": "oakFlagstone",
+      "image": "images/oakflagstone.jpg",
+      "title": "Oak Flagstone",
+      "characteristics": "Warm brown flagstone with a textured surface.",
+      "applications": ["Patios", "Walkways", "Stepping stones"],
+      "pros": ["Natural, rustic appearance", "Durable", "Non-slip"],
+      "cons": ["Can be expensive", "May fade over time"],
+      "gallery": ["images/oakflagstone.jpg", "images/oakflagstone2.jpg"]
+  },
+  {
+      "id": "quartziteFlagstone",
+      "image": "images/quartziteflagstone.jpg",
+      "title": "Quartzite Flagstone",
+      "characteristics": "Hard, durable flagstone with a variety of colors and textures.",
+      "applications": ["Patios", "Walkways", "Driveways"],
+      "pros": ["Extremely durable", "Scratch-resistant", "Wide range of colors and textures"],
+      "cons": ["Can be expensive", "May require specialized installation"],
+      "gallery": ["images/quartziteflagstone.jpg", "images/quartziteflagstone3.jpg"]
+  },
+  {
+      "id": "azureLimestone",
+      "image": "images/azurelimestone.jpg",
+      "title": "Azure Limestone Flagstone",
+      "characteristics": "Bluish-gray limestone with a smooth to slightly textured surface.",
+      "applications": ["Patios", "Pool decks", "Wall cladding"],
+      "pros": ["Elegant appearance", "Durable", "Versatile"],
+      "cons": ["Can be slippery when wet", "Susceptible to acid rain"],
+      "gallery": ["images/azurelimestone.jpg", "images/azurelimestone2.jpg"]
+  },
+  {
+      "id": "barkwoodFlagstone",
+      "image": "images/barkwoodflagstone.jpg",
+      "title": "Barkwood Flagstone",
+      "characteristics": "Textured surface that resembles tree bark. Warm brown and gray tones.",
+      "applications": ["Patios", "Walkways", "Stepping stones", "Retaining walls"],
+      "pros": ["Natural, rustic appearance", "Durable", "Non-slip", "Versatile"],
+      "cons": ["Can be expensive", "May require specialized installation"],
+      "gallery": ["images/barkwoodflagstone.jpg", "images/barkwoodflagstone3.jpg"]
+  }
+]
